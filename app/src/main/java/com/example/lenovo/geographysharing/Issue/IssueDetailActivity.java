@@ -21,7 +21,7 @@ public class IssueDetailActivity extends BaseActivity {
         setSupportActionBar();//表示当前页面支持ActionBar
         setSupportArrowActionBar(true);
         setTitle("填写发布设备信息");
-
+//test
 
     }
 
